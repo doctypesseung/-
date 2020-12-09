@@ -1,0 +1,58 @@
+h4 {
+  margin-bottom: 15px;
+}
+
+.welcome-box-container {
+  padding-top: 10px;
+  padding-bottom: 3px;
+  background-color: skyblue;
+}
+.welcome-box {
+  margin-right: 150px;
+  margin-left: 150px;
+  color: navy;
+}
+#grid {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 30px;
+}
+.nav {
+  padding-left: 30px;
+  padding-bottom: 400px;
+  background-color: cornflowerblue;
+  margin-left: 90px;
+}
+.menu {
+  list-style-type: none;
+  margin-top: 10%;
+  border-bottom: 3px solid blanchedalmond;
+  padding: 3%
+}
+.menu a {
+  text-decoration: none;
+  color: black;
+  font-family: serif;
+}
+.menu .home {
+  color: crimson;
+}
+#article {
+  display: grid;
+  padding-top: 50px;
+  padding-left: 40px;
+}
+
+.content li {
+  margin-bottom: 10px;
+}
+.content span {
+  color: red;
+  font-weight: bold;
+}
+body {
+  background-color: white;
+  margin: 0;
+}
